@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pranitha Komirishetty</h1>
 <h3 align="center">A DataScience Enthusiast and a Full-Stack Developer!</h3>
+<p align="right"> <i><h4 align="center"><b>Coding.... </i></b></h4></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitha04&label=Profile%20views&color=0e75b6&style=flat" alt="pranitha04" /> </p>
 
