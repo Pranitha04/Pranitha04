@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pranitha Komirishetty</h1>
-<h3 align="center">A DataScience Enthusiast and a Full-Stack Developer!</h3>
+<h3 align="center">DataScience Enthusiast and a Full-Stack Developer!</h3>
 <p align="right"> <i><h4 align="center"><b>Coding.... </i></b></h4></p>
 
 
