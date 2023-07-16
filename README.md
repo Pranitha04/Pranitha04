@@ -1,4 +1,4 @@
-<h1 align="center">Hey , I'm Pranitha Komirishetty</h1>
+<h1 align="center">Hey 👋</h1>
 <img align="center" src="ksnip_20230716-105008.png" alt="pranitha_04" height="410" width="1040" />
 <!--<div style="position: relative;">
   <img src="ksnip_20230716-105008.png" alt="Developer" />
