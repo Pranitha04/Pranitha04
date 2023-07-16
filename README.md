@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Pranitha Komirishetty</h1>
-<img align="center" src="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911004.htm" alt="pranitha_04" height="20" width="40" />
+<img align="center" src="![2554012](https://github.com/Pranitha04/Pranitha04/assets/54598582/cb4ab698-31d4-4d80-97be-fcd9adcd5946)
+" alt="pranitha_04" height="20" width="40" />
 <h3 align="center">DataScience Enthusiast and a Full-Stack Java Developer!</h3>
 <p align="right"> <i><h4 align="center"><b>Coding..... </i></b></h4></p>
 
