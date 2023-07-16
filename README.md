@@ -2,7 +2,7 @@
 <img align="center" src="ksnip_20230716-105008.png" alt="pranitha_04" height="410" width="1040" /> -->
 <div style="position: relative;">
   <img src="ksnip_20230716-105008.png" alt="Developer" />
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; color: Black; background-color: rgba(0, 0, 0, 0.7); padding: 10px;">
+  <span style="position: absolute; top: 10px; left: 10px;  font-size: 48px; color: Black; background-color: rgba(0, 0, 0, 0.7); padding: 10px; font-weight: bold;">
     Hey 👋, I'm Pranitha Komirishetty
   </span>
 </div>
