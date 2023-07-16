@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pranitha Komirishetty</h1>
-<img align="center" src="ksnip_20230716-105008.png" alt="pranitha_04" height="500" width="920" />
+<img align="center" src="ksnip_20230716-105008.png" alt="pranitha_04" height="410" width="1040" />
 <h3 align="center">DataScience Enthusiast and a Full-Stack Java Developer!</h3>
 <p align="right"> <i><h4 align="center"><b>Coding..... </i></b></h4></p>
 
