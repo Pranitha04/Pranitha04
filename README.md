@@ -1,11 +1,11 @@
-<!--<h1 align="center">Hey 👋, I'm Pranitha Komirishetty</h1>
-<img align="center" src="ksnip_20230716-105008.png" alt="pranitha_04" height="410" width="1040" /> -->
-<div style="position: relative;">
+<h1 align="center">Hey , I'm Pranitha Komirishetty</h1>
+<img align="center" src="ksnip_20230716-105008.png" alt="pranitha_04" height="410" width="1040" />
+<!--<div style="position: relative;">
   <img src="ksnip_20230716-105008.png" alt="Developer" />
   <span style="position: absolute; top: 10px; left: 10px;  font-size: 48px; color: Black; background-color: rgba(0, 0, 0, 0.7); padding: 10px; font-weight: bold;">
     Hey 👋, I'm Pranitha Komirishetty
   </span>
-</div>
+</div> -->
 
 <h3 align="center">DataScience Enthusiast and a Full-Stack Java Developer!</h3>
 <p align="right"> <i><h4 align="center"><b>Coding..... </i></b></h4></p>
