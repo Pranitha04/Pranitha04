@@ -20,10 +20,10 @@
 <br>
  
 <h4 align="left">Can Connect Via:</h4> <br>
-<p align="left">
+<p align="left"> <b>
   - Email 📫 : Komirishettypranitha@gmail.com  </p> 
 - Twitter : <a href="https://twitter.com/pranitha_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranitha_04" height="20" width="20" /></a> <br>
-- Linkedin <a href="https://linkedin.com/in/www.linkedin.com/in/pranitha-komirishetty-32b3831b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pranitha-komirishetty-32b3831b1" height="20" width="20" /></a>
+- Linkedin <a href="https://linkedin.com/in/www.linkedin.com/in/pranitha-komirishetty-32b3831b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pranitha-komirishetty-32b3831b1" height="20" width="20" /></a> </b>
 </p> 
 <br>
 
