@@ -6,8 +6,8 @@
     Hey 👋, I'm Pranitha Komirishetty
   </span>
 </div> -->
-
-<h3 align="center">DataScience Enthusiast and a Full-Stack Java Developer!</h3>
+<h3 align="center">I'm Pranitha Komirishetty </h3> </br>
+<h3 align="center">A DataScience Enthusiast and a Full-Stack Java Developer!</h3>
 <p align="right"> <i><h4 align="center"><b>Coding..... </i></b></h4></p>
 
 
